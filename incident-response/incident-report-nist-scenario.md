@@ -33,4 +33,4 @@ Você é analista de segurança cibernética e trabalha para uma empresa de mult
 - **Recuperar:** Restauração dos sistemas e normalização dos serviços.
 
 
-🔗 [Acesse o relatório completo](incident-response/incident-report-nist.md)
+🔗 [Acesse o relatório completo](incident-report-nist.md)
