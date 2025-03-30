@@ -1,15 +1,17 @@
 # 📊 Relatório de Resposta a Incidentes - NIST CSF
 
+## 📄 Cenário da Atividade
+Para entender o contexto deste relatório, consulte a [descrição completa do cenário](incident-report-nist-scenario.md).
 
-## 🚨 Cenário do Incidente
-Uma empresa de multimídia que fornece serviços de Web design e marketing digital sofreu um **ataque DDoS** que interrompeu seus serviços por **duas horas**. O ataque foi realizado via **flood de pacotes ICMP**, explorando um firewall mal configurado.
 
 ## 📌 Introdução
 **Data do incidente:** 2025-03-30  
 **Tipo de incidente:** Flood de pacotes ICMP  
-**Setor afetado:** TI e Segurança da Informação da empresa de multimídia.   
+**Setor afetado:** Toda a rede interna da empresa.  
 **Objetivo:** Aplicar o NIST Cybersecurity Framework para analisar, mitigar e fortalecer a resposta a incidentes cibernéticos, garantindo maior resiliência contra futuros ataques.
 
+## 🚨 Resumo do Incidente
+Uma empresa de multimídia que fornece serviços de Web design e marketing digital sofreu um **ataque DDoS** que interrompeu seus serviços por **duas horas**. O ataque foi realizado via **flood de pacotes ICMP**, explorando um firewall mal configurado.
 
 ## 🔎 Estrutura da Análise (NIST CSF)
 
@@ -92,6 +94,7 @@ Uma empresa de multimídia que fornece serviços de Web design e marketing digit
 **_Melhorias no Processo de Recuperação:_**
 
 - 💾 **Implementação de backups automáticos** para recuperação mais rápida.
+- 🔍 **verificação periódica da integridade dos backups** para evitar problemas na recuperação.
 - 🌐 **Planos de redundância** para garantir continuidade operacional em caso de novos ataques.
 - 🏴‍☠️ **Simulações regulares de ataques DDoS** para avaliar a eficácia das contramedidas.
 

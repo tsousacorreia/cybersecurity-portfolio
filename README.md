@@ -1,13 +1,15 @@
 # 🛡️ Cybersecurity Portfolio
 
-Bem-vindo ao meu portfólio de **Cybersecurity**!  
+Bem-vindo ao meu portfólio de **Cybersecurity**!   
 Aqui você encontrará projetos, estudos e análises focadas em segurança da informação, com ênfase em resposta a incidentes, análise forense e frameworks de segurança.
 
 ## 📂 Análises
 
 ### 🔹 1. Resposta a Incidentes com o NIST Cybersecurity Framework
 **Descrição:**  
-Aplicação da estrutura NIST para responder a um incidente de segurança, abordando identificação, proteção, detecção, resposta e recuperação.
+Este relatório foi realizado como atividade do curso **Conectar e Proteger: Redes de Computadores e Segurança de Rede**, parte do programa de **Certificação Profissional de Segurança Cibernética do Google**.
+
+📄 [Cenário da atividade](incident-response/incident-report-nist-scenario.md)
 
 🔗 [Acesse o relatório](incident-response/incident-report-nist.md)
 
