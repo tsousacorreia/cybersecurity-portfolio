@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Portfolio
 
 Bem-vindo ao meu portfólio de **Cybersecurity**!   
-Aqui você encontrará projetos, estudos e análises focadas em segurança da informação, com ênfase em resposta a incidentes, análise forense e frameworks de segurança.
+Aqui você encontrará projetos, estudos e análises focadas em segurança da informação.
 
 ## 📂 Análises
 
