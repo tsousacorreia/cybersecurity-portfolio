@@ -32,9 +32,7 @@ Durante este laboratório, siga as diretrizes abaixo:
 
 ---
 
-## 💻 Exemplo de comandos úteis
-
-### 🧪 Resultado esperado
+## 🧪 Resultado esperado
 
 Ao final deste laboratório, o ambiente deve estar com permissões corretamente configuradas:
 
