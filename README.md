@@ -18,7 +18,7 @@ Este relatório foi realizado como atividade do curso **Conectar e Proteger: Red
 
 ### 🔹 1. Permissões de Arquivos no Linux
 **Descrição:**  
-Este laboratório foi desenvolvido para reforçar os conceitos de controle de acesso no sistema de arquivos do Linux, com foco em **permissões de leitura, escrita e execução**, incluindo o uso do comando `chmod` em arquivos visíveis e ocultos.
+Este laboratório foi desenvolvido para reforçar os conceitos de controle de acesso no sistema de arquivos do Linux, com foco em **permissões de leitura, escrita e execução**, incluindo o uso do comando `chmod` em arquivos e diretórios visíveis e ocultos. Foi realizado como atividade do curso **Ferramentas do ofício: Linux e SQL**, parte do programa de **Certificação Profissional de Segurança Cibernética do Google**.
 
 📄 [Cenário do laboratório](file-permissions/file-permissions-scenario.md)
 
