@@ -13,6 +13,17 @@ Este relatório foi realizado como atividade do curso **Conectar e Proteger: Red
 
 🔗 [Acesse o relatório](incident-response/incident-report-nist.md)
 
+
+## 📂 Laboratórios
+
+### 🔹 1. Permissões de Arquivos no Linux
+**Descrição:**  
+Este laboratório foi desenvolvido para reforçar os conceitos de controle de acesso no sistema de arquivos do Linux, com foco em **permissões de leitura, escrita e execução**, incluindo o uso do comando `chmod` em arquivos visíveis e ocultos.
+
+📄 [Cenário do laboratório](file-permissions/file-permissions-scenario.md)
+
+🔗 [Acesse o relatório do lab](file-permissions/file-permissions.md)
+
 ---
 
 ## 🚀 Próximos Projetos  
