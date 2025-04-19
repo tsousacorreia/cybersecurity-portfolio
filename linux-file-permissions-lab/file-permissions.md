@@ -206,7 +206,7 @@ ls -la ~/pesquisa
 ls -la ~/pesquisa/.oculto
 ```
 
-Ou, para checar permissões específicas:
+Ou, para checar permissões de um arquivo específico:
 ```
 stat relatorio.txt
 ```
@@ -215,12 +215,12 @@ stat relatorio.txt
 
 ## ✅ Summary
 
-Neste laboratório, configuramos um ambiente Linux com diretórios e arquivos (visíveis e ocultos) e aplicamos práticas recomendadas de segurança:
+Neste laboratório, configurei um ambiente Linux com diretórios e arquivos (visíveis e ocultos) e apliquei práticas recomendadas de segurança:
 
-- Listamos permissões com `ls -la`
-- Interpretamos a cadeia de permissões de 10 caracteres
-- Usamos `chmod` para remover permissões de escrita de "others"
-- Garantimos que arquivos ocultos são somente leitura para usuário e grupo
-- Protegemos o diretório oculto com permissão exclusiva para o usuário
+- Listei permissões com `ls -la`
+- Interpretei a cadeia de permissões de 10 caracteres
+- Usei `chmod` para gerir as permissões dos arquivos e diretórios
+- Garanti que arquivos ocultos são somente leitura para usuário e grupo
+- Protegi o diretório oculto com permissão exclusiva para o usuário
 
 Essas práticas ajudaram a manter a integridade e segurança dos dados dentro do sistema Linux no ambiente proposto.
